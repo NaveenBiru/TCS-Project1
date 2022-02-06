@@ -9,6 +9,10 @@ public class A {
 		System.out.println("mul total="+(a*b*c));
 		System.out.println("sub="+(b-a));
 		System.out.println("sub="+(c-a));
-
+		int d=50;
+		int e=80;
+		int f=30;
+		System.out.println("total="+(d+e+f));
+		System.out.println("mul total="+(e*d*f));
 	}
 }
